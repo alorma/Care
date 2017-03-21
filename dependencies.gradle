@@ -1,0 +1,5 @@
+ext.versions = [
+                rx_java          : '1.2.1',
+                rx_android       : '1.2.1',
+                android_support  : '25.3.0',
+                butterknife      : '8.5.1']
